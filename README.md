@@ -151,11 +151,11 @@ miniproject-1/
 
 ## 👤 Author
 
-- **Name:** [Your Name]
-- **Roll No:** [Your Roll Number]
-- **College:** [Your College Name]
-- **Course:** [Your Course Name]
-- **Semester:** [Your Semester]
+- **Name:** Utsav Panduranga
+- **Roll No:** 25SUUBECS1559
+- **College:** Sapthagiri NPS University
+- **Course:** B.E.CSE
+- **Semester:** Second
 
 ---
 
